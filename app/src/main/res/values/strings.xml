@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+        <string-array name="districts">
+            <item>Select District</item>
+            <item>Dhaka</item>
+            <item>Chittagong</item>
+        </string-array>
+
+        <string-array name="upazilas_dhaka">
+            <item>Select Upazila</item>
+            <item>Savar</item>
+            <item>Dhamrai</item>
+        </string-array>
+
+        <string-array name="upazilas_chittagong">
+            <item>Select Upazila</item>
+            <item>Anowara</item>
+            <item>Boalkhali</item>
+        </string-array>
+
+</resources>
